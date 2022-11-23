@@ -114,6 +114,7 @@ xcuserdata
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
+.DS_Store
 
 ### XcodeInjection ###
 # Code Injection
